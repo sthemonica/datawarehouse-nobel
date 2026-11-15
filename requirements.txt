@@ -1,0 +1,7 @@
+requests
+duckdb
+pandas
+ipykernel
+pip
+ipywidgets
+matplotlib
